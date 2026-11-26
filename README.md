@@ -2,7 +2,7 @@
 
 - Nama : Ryandra Gunawan
 - NIM : 25552011102
-- Kelas : TIFRP 25F
+- Kelas : TIF RP 25F
 
 Soal yang dikerjakan: **Soal 2 - Sistem Pengelolaan Kendaraan** (angka terakhir NIM = 2)
 
